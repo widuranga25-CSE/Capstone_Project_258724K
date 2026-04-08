@@ -1,0 +1,17 @@
+Feature,Mean |SHAP|
+anydigpayment,2.8537648
+merchantpay_dig,1.2865844
+pay_utilities,0.7139752
+domestic_remittances,0.43414566
+saved,0.2513429
+age,0.24889866
+educ,0.21125418
+receive_wages,0.20794292
+internet_use,0.16043968
+inc_q,0.12252174
+emp_in,0.11777559
+receive_transfers,0.09836644
+receive_pensions,0.0752277
+urbanicity,0.06485439
+female,0.06236098
+borrowed,0.061730944
